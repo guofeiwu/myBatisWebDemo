@@ -21,7 +21,6 @@ public class DBAccess {
         return sqlSession;
     }
 
-
     public static void main(String [] args){
         DBAccess dbAccess = new DBAccess();
         try {
